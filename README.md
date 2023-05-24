@@ -55,7 +55,7 @@ npm start
 
 ## Screenshots
 ### CLI Interface
-![CLI Interface](project-images/PokeDex-CLI.png)
+![CLI Interface](project-images/PokedexCLI-interface.png)
 
 ### Stats Report
 ![CLI Interface](project-images/stats.png)
@@ -66,6 +66,7 @@ npm start
 ### Fetched Data
 ![CLI Interface](project-images/fetchedData.png)
 
+<hr>
 
 ## Contributing
 
