@@ -4,9 +4,12 @@ Welcome to the Pokedex repository! This project is a Command Line Interface (CLI
 
 ## Features
 
-- Fetch Pokemon data: The Pokedex CLI interacts with the PokeAPI to retrieve detailed information about various Pokemon species.
-- Download information: Users can select the specific data they want to download for a Pokemon, including status, sprites, and artwork.
-- Customized reports: The tool generates reports based on the user-selected options, providing a convenient way to access and analyze Pokemon data.
+1) Fetch Pokemon data: Seamlessly interact with the PokeAPI to retrieve comprehensive information about various Pokemon species.
+
+2) Download artwork and sprites: Select your favorite Pokemon and effortlessly download their stunning artwork and sprite images.
+
+3) Check Pokemon status: Get real-time information on a Pokemon's stats, including their strengths, weaknesses, and other vital attributes.
+
 
 ## Getting Started
 
@@ -50,7 +53,21 @@ npm start
 4. Once the process is complete, the CLI will generate a report with the downloaded data.
 
 
-### Contributing
+## Screenshots
+### CLI Interface
+![CLI Interface](project-images/PokeDex-CLI.png)
+
+### Stats Report
+![CLI Interface](project-images/stats.png)
+
+### Pokemon Artwork
+![CLI Interface](project-images/pokemon.png)
+
+### Fetched Data
+![CLI Interface](project-images/fetchedData.png)
+
+
+## Contributing
 
 Contributions are welcome! If you want to contribute to the Pokedex project, please follow these steps:
 
